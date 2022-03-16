@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T20:54:01.753Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="HJjOOQlPPmRijLuXJRwx" version="16.5.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-03-16T15:23:52.577Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="wr2UZnURz0R_5so_1Ung" version="16.5.3" type="github" pages="12">
   <diagram id="T3TyY22dqFO6OO7gl-pc" name="Page-1">
-    <mxGraphModel dx="836" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1286" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -425,7 +425,7 @@
         <mxCell id="QP7BV4zbX_P-0lXZTVSK-93" value="FW" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="790" y="510" width="29" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QP7BV4zbX_P-0lXZTVSK-94" value="webCreacionUsuario" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="QP7BV4zbX_P-0lXZTVSK-94" value="webTransferencias" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="160.5" width="146" height="27" as="geometry" />
         </mxCell>
         <mxCell id="QP7BV4zbX_P-0lXZTVSK-95" value="ServiceCRUDClientes" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
@@ -1980,7 +1980,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ORIGINAL DiagramaSeqCreacion - FIT NTS" id="sPSQQSmWUH7xGcvSDDJ6">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rfIK1iFw9z3qLHN90hC0-0" />
         <mxCell id="rfIK1iFw9z3qLHN90hC0-1" parent="rfIK1iFw9z3qLHN90hC0-0" />
